@@ -1,0 +1,2 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink;replyTo
+force_net;2016-02-03 09:38;0;0;"Я всё-таки реализовал для .NET паттерн PublicMorozov , который позволяет вызывать protected методы без нарушения безопасности";;;;"694817243268538368";https://twitter.com/force_net/status/694817243268538368;
