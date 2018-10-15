@@ -1,5 +1,5 @@
 # Twitterbot_Collection_Code
-This code was created in order to evaluate how successful known Russian twitter bots were at influencing people. The list of Russian bots was obtained from a list released by Congress, https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731). In addition to my own code I used a twitter crawler (https://github.com/Jefferson-Henrique/GetOldTweets-python) that I slightly modified to help with the tweet collection process.
+This code was created in order to evaluate how successful known Russian twitter bots were at influencing people. The list of Russian bots was obtained from a list released by Congress (https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731). In addition to my own code I used a twitter crawler (https://github.com/Jefferson-Henrique/GetOldTweets-python) that I slightly modified to help with the tweet collection process.
 
 # What did I do with my code?
 1) Verified the Russian bots were banned by atempting to collect their tweets
